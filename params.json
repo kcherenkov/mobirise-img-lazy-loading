@@ -1,0 +1,10 @@
+{
+    "name": "Image Lazy Load",
+    "alias": "img-lazy-load",
+    "version": 1,
+    "minAppVersion": "4.10.17",
+    "appScript": true,
+	"description":"Makes lazy loading of all images on your site by adding a loading=\"lazy\" attribute to <img> tags. More info https://developer.mozilla.org/en-US/docs/Web/Performance/Lazy_loading#images_and_iframes",
+    "largeCover": "cover.png",
+    "logo" : "thumbnail.png"
+}
